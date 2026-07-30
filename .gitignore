@@ -1,0 +1,16 @@
+# OS / editor cruft
+.DS_Store
+Thumbs.db
+*.swp
+.idea/
+.vscode/
+
+# Never commit real exports, workbooks, or credentials
+*.xlsx
+*.xls
+*.csv
+*.env
+.env
+*.key
+*.pem
+credentials*.json

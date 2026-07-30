@@ -69,7 +69,7 @@ Metrics are grouped into three themes. Tick the rows you want on the Operations 
 5. Copy the generated table from the chosen Report tab.
 6. Paste and format it on the EBR deck.
 
-See [`docs/sop.md`](docs/sop.md) for the full step-by-step and [`docs/example-output.md`](docs/example-output.md) for a worked example.
+See [`docs/sop.md`](docs/sop.md) for the full step-by-step and [`docs/example-output.md`](docs/example-output.md) for a worked example. For how it was done manually — with a sanitized sample workbook and a sample output slide — see [`docs/source-spreadsheet.md`](docs/source-spreadsheet.md).
 
 ## Background
 

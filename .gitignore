@@ -9,6 +9,8 @@ Thumbs.db
 *.xlsx
 *.xls
 *.csv
+# ...except the intentionally-anonymized sample workbook
+!reference/Industry-Magic-SAMPLE.xlsx
 *.env
 .env
 *.key
